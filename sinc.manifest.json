@@ -1,0 +1,39 @@
+{
+  "tables": {
+    "sys_script_include": {
+      "records": {
+        "TestOne": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestOne",
+          "sys_id": "2c1519681b0100107cdd7596cc4bcbb5"
+        },
+        "TestThree": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestThree",
+          "sys_id": "4b0699a81b0100107cdd7596cc4bcb50"
+        },
+        "TestTwo": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestTwo",
+          "sys_id": "f92515281b0100107cdd7596cc4bcb2d"
+        }
+      }
+    }
+  },
+  "scope": "x_62845_demo_app"
+}
